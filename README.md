@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m @Ridhimaaaa29<br>👀 I’m a undergrad CS Engineer<br>🌱 I’m currently practicing DSA Java<br>💞️ I’m looking to collaborate on Full stack Projects<br>📫 How to reach me sharmaridhima2004@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: just getting started
+👋 Hi, I’m Ridhima Sharma <br>👀 I’m an undergrad Computer Science Engineer<br>🌱 I’m currently practicing DSA in Java<br>💞️ I’m looking to collaborate on Full stack Projects<br>📫 How to reach me : sharmaridhima2004@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: just getting started
 
 
 ## 🌐 Socials:
